@@ -4,4 +4,3 @@
   Chat Now!
 </a>
 
-<p>Or, learn more about the tool in our [documentation](link-to-documentation).</p>
